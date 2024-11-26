@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahd Henagl</h1>
 <h3 align="center">Student at Business information systems Tanta university || From Egypt, Mansoura . 21 years old</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahdhenagl192003&label=Profile%20views&color=0e75b6&style=flat" alt="shahdhenagl192003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahdhenagl&label=Profile%20views&color=0e75b6&style=flat" alt="shahdhenagl192003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahdhenagl192003" alt="shahdhenagl192003" /></a> </p>
 
